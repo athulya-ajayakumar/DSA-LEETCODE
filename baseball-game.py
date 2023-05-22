@@ -1,6 +1,7 @@
 # Time:  O(n)
 # Space: O(n)
 
+
 class Solution(object):
     def calPoints(self, ops):
         """
